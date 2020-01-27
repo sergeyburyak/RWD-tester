@@ -1,0 +1,7 @@
+C:\Users\Sergey\Documents\SharpDevelop Projects\RWD tester\RWD tester\bin\Debug\RWD tester.exe
+C:\Users\Sergey\Documents\SharpDevelop Projects\RWD tester\RWD tester\bin\Debug\RWD tester.pdb
+C:\Users\Sergey\Documents\SharpDevelop Projects\RWD tester\RWD tester\obj\Debug\RWD tester.vbprojResolveAssemblyReference.cache
+C:\Users\Sergey\Documents\SharpDevelop Projects\RWD tester\RWD tester\obj\Debug\RWD_tester.MainForm.resources
+C:\Users\Sergey\Documents\SharpDevelop Projects\RWD tester\RWD tester\obj\Debug\RWD tester.vbproj.GenerateResource.Cache
+C:\Users\Sergey\Documents\SharpDevelop Projects\RWD tester\RWD tester\obj\Debug\RWD tester.exe
+C:\Users\Sergey\Documents\SharpDevelop Projects\RWD tester\RWD tester\obj\Debug\RWD tester.pdb
